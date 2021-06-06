@@ -1,4 +1,4 @@
-package com.assignment.scheduler;
+package com.assignment.scheduler.repository;
 
 import com.assignment.scheduler.model.SchedulerLog;
 import org.springframework.data.jpa.repository.JpaRepository;

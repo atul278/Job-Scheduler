@@ -8,6 +8,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import java.sql.Timestamp;
 
+// Entity storing jobs scheduling logs
 @Entity
 @Data
 public class SchedulerLog {

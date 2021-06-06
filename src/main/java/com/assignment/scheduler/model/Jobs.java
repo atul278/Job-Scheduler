@@ -10,6 +10,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import java.sql.Timestamp;
 
+// Entity storing jobs config
 @Entity
 @Data
 public class Jobs {

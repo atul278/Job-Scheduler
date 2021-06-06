@@ -1,4 +1,4 @@
-package com.assignment.scheduler;
+package com.assignment.scheduler.config;
 
 import org.quartz.SchedulerFactory;
 import org.quartz.impl.StdSchedulerFactory;
